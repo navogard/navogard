@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @navogard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: you can find me at Roche Diagnostics Spain
+👋 Hi, I’m @navogard
+📫 You can find me at Roche Diagnostics Spain
 
 <!---
 navogard/navogard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
